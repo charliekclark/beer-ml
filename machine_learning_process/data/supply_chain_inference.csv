@@ -1,0 +1,11 @@
+material,mgmt_escalated,ordered_inside_lead_time,phone_calls_placed,req_date_month,req_date_qtr,supplier_warning,units_ordered,price,total_order,lead_time,supplier
+AZY333,Y,Y,13,1,1,Told it would be late,117,1879.9,219948.3,12,MT4
+AXX172,Y,N,10,11,4,No communication,201,12.98,2608.98,2,CX4
+AXX172,N,Y,7,3,1,Told it would be on time,69,12.98,895.62,2,CX4
+AXX172,N,Y,5,7,3,No communication,150,12.98,1947,2,CX4
+ACZ636,N,Y,10,3,1,No communication,80,18.18,1454.4,2,SS3
+AAZ122,N,N,9,7,3,Told it would be on time,82,988.21,81033.22,14,RT4
+AYY404,N,Y,9,1,1,No communication,49,316.07,15487.43,17,MT4
+AAZ212,N,Y,13,5,2,Told it would be on time,45,21.2,954,2,RT4
+ACZ636,N,Y,5,12,4,Told it would be late,51,18.18,927.18,2,SS3
+,N,N,6,4,2,Told it would be on time,51,72.73,3709.23,7,TM2
